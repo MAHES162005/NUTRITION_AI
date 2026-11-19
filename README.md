@@ -134,4 +134,5 @@ npm run dev
 - Web Application starts at: `http://localhost:3000`
 - Test responsive viewports: `360px` (Mobile), `768px` (Tablet), `1280px` (Desktop).
 #   N U T R I T I O N _ A I  
+ #   N U T R I T I O N _ A I  
  
